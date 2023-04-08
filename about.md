@@ -11,4 +11,4 @@ permalink: /about/
 
 ### 연락처
 
-[yukihira91@ysizuku.com ](yukihira91@ysizuku.com)
+[yukihira91@ysizuku.com ](mailto:yukihira91@ysizuku.com)
