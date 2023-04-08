@@ -27,10 +27,12 @@ _강조_
 
 - 목록
 - 만들기
-``
-코드 블럭
-``
 
-`코드 조각`
+```python
+def hello_world():
+    print("Hello, World!")
+```
+
+`print("Hello, World!")`
 
 ![](https://i.namu.wiki/i/mO8lzNywboKLKZhgbC3YKSkRlD9QfJvrTmcViIajtStnEcHEDgBojspAUrrXRialEG-V9oiSZiRkT2btnBd2_N0nq85QCU_h02xviZkMl9mNiX5Y1kEN2d5oIZT-P9nNufupzAByPTwKHrIcvh98xA.webp)
