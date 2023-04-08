@@ -10,7 +10,7 @@ Next you can update your site name, avatar and other options using the _config.y
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
-- > 현재 새 글이 포스팅 되지 않느 문제 조사중...
+- > 현재 새 글이 포스팅 되지 않는 문제 조사중...
 
 새로운 포스트를 쓰기 위해서는 마크다운을 이용해서 작성할 수 있습니다.
 마크다운 문법을 활용해서 편리하게 포스트를 작성할 수 있습니다.
