@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+소개를 적는 공간입니다.
 
-### More Information
+### 이 곳에 더 많은 내용을 작성하세요. 
+이 블로그는 현재 연습용으로 만들어진 블로그입니다. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### 연락처
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[yukihira91@ysizuku.com ](yukihira91@ysizuku.com)
